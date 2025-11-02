@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I have been coding for over 3 years by now!**
 
-- 👨‍💻 All of my projects are available at **[https://arnav-portfolio-six.vercel.app/](https://arnav-portfolio-six.vercel.app/)**
+- 👨‍💻 My Portfolio **[https://arnav-portfolio-six.vercel.app/](https://arnav-portfolio-six.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
