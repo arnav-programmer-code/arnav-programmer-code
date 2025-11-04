@@ -1,0 +1,96 @@
+.hero {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.profile {
+    width: 240px;        
+    height: 240px;       
+    border-radius: 50%;  
+    overflow: hidden;
+    margin-top: 50px;    
+    transition: transform 0.3s ease; /* Smooth transition */
+}
+
+.profile:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+}
+
+.profile img {
+    width: 100%;         
+    height: 100%;        
+    object-fit: cover;   
+}
+
+.hero h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 75px;
+    width: 70%;
+    font-weight: 600;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.hero h1:hover {
+    transform: scale(1.03);
+}
+
+.hero h1 span {
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero p {
+    font-family: 'Outfit', sans-serif;
+    font-size: 22px;
+    width: 60%;
+    font-weight: 400;
+    text-align: center;
+    color: #CCCCCC;
+    transition: transform 0.3s ease;
+}
+
+.hero p:hover {
+    transform: scale(1.02);
+}
+
+.hero-actions {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.hero-connect {
+    padding: 25px 45px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 106.2%);
+    cursor: pointer;
+    font-family: 'Outfit', sans-serif;
+    transition: transform 0.3s ease;
+}
+
+.hero-connect:hover {
+    transform: scale(1.08);
+    border: 2px solid white;
+}
+
+.hero-resume {
+    padding: 25px 75px;
+    border-radius: 50px;
+    border: 2px solid #FFFFFF;
+    cursor: pointer;
+    font-family: 'Outfit', sans-serif;
+    transition: transform 0.3s ease;
+}
+
+.hero-resume:hover {
+    transform: scale(1.08);
+    border: 2px solid white;
+}

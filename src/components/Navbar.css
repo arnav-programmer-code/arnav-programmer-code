@@ -1,0 +1,61 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    padding: 0 80px;
+    max-width: 1200px;
+    height: 80px;
+    font-family: outfit, sans-serif;
+}
+
+/* Logo */
+.logo {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 60px;
+    height: 60px;
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+/* Navigation Menu */
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Each <li> gets its own hover */
+.nav-menu li {
+    cursor: pointer;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.nav-menu li:hover {
+    transform: scale(1.15);
+    color: #DF8908;
+}
+
+/* Connect Button */
+.nav-connect {
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 106.2%);
+    font-size: 22px;
+    transition: transform 0.3s ease, filter 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.nav-connect:hover {
+    transform: scale(1.08);
+    filter: brightness(1.2);
+    box-shadow: 0 0 15px rgba(185, 35, 225, 0.4);
+}
