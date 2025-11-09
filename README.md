@@ -2,8 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <img src="https://github.com/user-attachments/assets/96f59677-c3d7-4513-805a-2fc377063a21" />
-grammer-code" /> </p>
 
 - 🔭 I'm currently working on **a Javascript Flight Logger in GeoFS**
 
