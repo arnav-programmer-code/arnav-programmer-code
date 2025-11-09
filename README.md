@@ -1,8 +1,9 @@
-# Hi 👋, I'm Arnxv Dev
+<img width="1024" height="1024" alt="vite" src="https://github.com/user-attachments/assets/f3832a14-f729-4b08-b3aa-e5a3df42b05e" /># Hi 👋, I'm Arnxv Dev
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-programmer-code&label=Profile views&color=0e75b6&style=flat" alt="arnav-programmer-code" /> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/96f59677-c3d7-4513-805a-2fc377063a21" />
+grammer-code" /> </p>
 
 - 🔭 I'm currently working on **a Javascript Flight Logger in GeoFS**
 
