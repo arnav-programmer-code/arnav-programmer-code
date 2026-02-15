@@ -9,110 +9,98 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  
 ```
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=Booting+ArnavOS...;Loading+Frontend+Modules...;Injecting+React+Systems...;Initializing+Godot+Engine...;System+Ready." />
+
 </div>
 
 ---
 
-## > boot --profile arnav
+## ```bash
+> sudo ./initialize_profile.sh
+```
 
-```terminal
-Initializing developer profile...
-Loading focus module...        ✓
-Loading creativity module...   ✓
-Loading overthinking module... ✓
-System ready.
+```diff
++ Identity Verified
++ Focus Module Activated
++ Noise Filter Enabled
++ Quality Enforcement: ON
 ```
 
 ---
 
-## > cat identity.json
-
-```json
-{
-  "name": "Arnav",
-  "role": "Frontend Systems Builder",
-  "secondary": "2D Gameplay Engineer (Godot)",
-  "core_stack": ["HTML", "CSS", "JavaScript", "React"],
-  "engine": "Godot (2D)",
-  "philosophy": "Quality over Quantity. Focus over Noise."
-}
+## ```bash
+> cat /etc/arnav.conf
 ```
 
-I don’t build for volume.  
-I build for **clarity, structure, and longevity.**
+```ini
+[USER]
+name=Arnav
+role=Frontend Systems Engineer
+secondary=2D Godot Developer
 
-Interfaces should feel light.  
-Code should feel inevitable.  
-Games should feel intentional.
+[PRINCIPLE]
+quality_over=quantity
+focus_over=noise
+simplicity=mandatory
+```
 
 ---
 
-## > tree skills/
+## ```bash
+> tree /skills
+```
 
 ```bash
-skills/
-├── frontend/
-│   ├── responsive architecture
-│   ├── performance-first UI
-│   └── scalable React systems
-│
-├── logic/
-│   ├── state management
-│   ├── API integration
-│   └── clean modular structure
-│
-└── creative/
-    ├── 2D mechanics (Godot)
-    ├── physics systems
-    └── gameplay flow design
+/skills
+├── html
+├── css
+├── javascript
+├── react
+├── node
+├── python
+└── godot_2d
 ```
 
 ---
 
-## > stack --visual
+## ```bash
+> system_status --live
+```
+
+```c
+struct Developer {
+    bool distracted = false;
+    bool shipping_clean_code = true;
+    bool building_scalable_ui = true;
+    bool overengineering = false;
+};
+```
+
+---
+
+## ```bash
+> ./deploy_stats.sh
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,godot,git,firebase,vscode&theme=dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Creative-banda&show_icons=true&theme=chartreuse-dark&hide_rank=true" height="150"/>
+
+<img src="https://streak-stats.demolab.com/?user=Creative-banda&theme=chartreuse-dark" height="150"/>
 
 </div>
 
 ---
 
-## > current_status()
-
-```js
-function currentStatus() {
-  return {
-    building: "Scalable frontend systems",
-    improving: "Game mechanics depth",
-    optimizing: "Focus",
-    avoiding: "Noise"
-  }
-}
+## ```bash
+> connect --secure
 ```
 
----
-
-## > stats --public
-
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Creative-banda&show_icons=true&theme=transparent&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&border_color=30363D&hide_rank=true" height="160"/>
-
-<img src="https://streak-stats.demolab.com/?user=Creative-banda&theme=transparent&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=8B949E&currStreakNum=8B949E&dates=8B949E&sideNums=8B949E&border=30363D" height="160"/>
-
-</div>
-
----
-
-## > connect --secure
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=vercel&logoColor=white)](/)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white)](https://arnav-programmer-code.github.io/arnxv.dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ultra.viking.pro@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=black)](/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black)](https://arnav-programmer-code.github.io/arnxv.dev/)
+[![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ultra.viking.pro@gmail.com)
 
 </div>
 
@@ -123,8 +111,8 @@ function currentStatus() {
 ```
 > exit
 
-Session closed.
-Focus remains.
+Connection terminated.
+Focus persists.
 ```
 
 </div>
