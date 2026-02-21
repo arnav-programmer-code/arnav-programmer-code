@@ -64,11 +64,4 @@ HTML | CSS | JavaScript | ReactJS | React-Native | Godot
 
 HTML • CSS • JS • ReactJS • React-Native • Godot • Node.js • Python
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnav-programmer-code&show_icons=true&theme=tokyonight" height="120px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-programmer-code&layout=compact&theme=tokyonight" height="120px"/>
-</p>
