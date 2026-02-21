@@ -39,7 +39,7 @@
 ## 🤝 Let’s Collaborate
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwwenMzb3R2b3psam80d3ZmZW5mMG1hbHRreGpkOHltbmdpbXhybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhZr8u3cvxe0ksf1ej/giphy.gif" width="200px"/>
 </p>
 
 Open source, cool projects, or interesting ideas.
