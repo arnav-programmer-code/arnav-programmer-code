@@ -49,7 +49,7 @@ Open source, cool projects, or interesting ideas.
 ## 💬 Ask Me About
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcl3ijlJp5rXUtO/giphy.gif" width="200px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNuYXV2a3gzc3V0cG9pZnpwdnk2ejRxMGNxYmowM2dmc253MmJsYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px"/>
 </p>
 
 HTML | CSS | JavaScript | ReactJS | React-Native | Godot
@@ -59,7 +59,7 @@ HTML | CSS | JavaScript | ReactJS | React-Native | Godot
 ## 🛠 Tools I Use
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="200px"/>
+  <img src="https://lottiefiles.com/free-animations/react" width="200px"/>
 </p>
 
 HTML • CSS • JS • ReactJS • React-Native • Godot • Node.js • Python
