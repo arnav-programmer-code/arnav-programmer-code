@@ -5,7 +5,7 @@
 <h1 align="center">Hey! I’m Arnav Kumar 👋</h1>
 
 <p align="center">
-  🔹 Fullstack & Mobile Developer <br>
+  🔹 Frontend & Mobile Developer <br>
   🔹 JavaScript • ReactJS • React-Native <br>
   🔹 2D Game Developer (Godot)
 </p>
