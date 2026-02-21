@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6tOzy1bMblt7e/giphy.gif" width="250px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwwenMzb3R2b3psam80d3ZmZW5mMG1hbHRreGpkOHltbmdpbXhybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="250px"/>
 </p>
 
 <h1 align="center">Hey! I’m Arnav Kumar 👋</h1>
