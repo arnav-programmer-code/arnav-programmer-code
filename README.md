@@ -59,7 +59,7 @@ HTML | CSS | JavaScript | ReactJS | React-Native | Godot
 ## 🛠 Tools I Use
 
 <p align="center">
-  <img src="https://lottiefiles.com/free-animations/react" width="200px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1280px-React_Logo_SVG.svg.png" width="200px"/>
 </p>
 
 HTML • CSS • JS • ReactJS • React-Native • Godot • Node.js • Python
